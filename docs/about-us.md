@@ -108,7 +108,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Kappa Kappa Gamma</li>
-<li><a href="mailto:ashley.perkins@cox.net?subject=OAPA%20Information">Ashley Perkins</a></li>
+<li><a href="mailto:jennifer.heyen@yahoo.com?subject=OAPA%20Information">Jennifer Heyen</a></li>
 </ul>
 <ul>
 <li>Phi Mu</li>
