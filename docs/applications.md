@@ -9,6 +9,8 @@ OAPA awards scholarships annually to outstanding sorority women attending a Nebr
 
 Two or more scholarships are awarded each year at our annual Gathering of Greeks event. We invite you to apply for the [Undergraduate Scholarship](https://drive.google.com/file/d/1Z-chASWhvVA8fpT26dpWIxSH0ripbPrv/view?usp=sharing) or the [OAPA Greek Leadership Scholarship](https://drive.google.com/file/d/1cHgkykH-zd-OtI65qzU-C6QgBbueTRWg/view?usp=sharing) for graduating seniors or graduate students. We would also appreciate letting your sisters know about these scholarship opportunities. 
 
+![president and past president of OAPA with winner of a scholarship]({{ site.github.url }}/assets/RHP_0045.jpg)
+
 ### Awards
 
 It is our pleasure to recognize outstanding women who exemplify wide and wise human service and contribute to the development of character, as stated in the National Panhellenic Conference Creed. Selection criteria include service to fraternity, and service to campus or community. 
