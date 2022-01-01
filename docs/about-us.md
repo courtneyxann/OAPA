@@ -151,7 +151,7 @@ OAPA was formed during the 1930s as the Omaha City Panhellenic Association. OCPA
 
 In 2002, OAPA became a charter member of the NPC Centennial Endowment Fund, to provide ongoing support for programs which encourage sorority women to strive academically, to develop leadership capabilities, and to develop the skills necessary to address risk management issues. Our $1000 donation continues to help fund these programs.
 
-![4 Delta Delta Delta women]({{ site.github.url }}/assets/deltadeltadeltas.jpg)
+![4 Delta Delta Delta women]({{ site.github.url }}/assets/RHP_0047.jpg)
 
 Today, OAPA delegates enjoy the social interaction and accomplishment our programs provide the Omaha area. Delegates take information back to their alumnae chapters and associations, which helps further the Panhellenic spirit. 
 
