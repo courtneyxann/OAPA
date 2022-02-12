@@ -76,7 +76,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Chi Omega</li>
-<li><a href="mailto:gestivo@npdodge.com?subject=OAPA%20Information">Gabby Estivo</a></li>
+<li><a href="mailto:ljedgecombe@outlook.com?subject=OAPA%20Information">Lauren Edgecombe</a></li>
 </ul>
 <ul>
 <li>Delta Delta Delta</li>
@@ -108,7 +108,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Kappa Kappa Gamma</li>
-<li><a href="mailto:jennifer.heyen@yahoo.com?subject=OAPA%20Information">Jennifer Heyen</a></li>
+<li><a href="mailto:andreascichilone@msn.com?subject=OAPA%20Information">Andrea Harper</a></li>
 </ul>
 <ul>
 <li>Phi Mu</li>
