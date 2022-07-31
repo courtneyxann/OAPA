@@ -21,15 +21,14 @@ community based organization. We exist
 <p><strong>President</strong><br> 
 <a href="mailto:jillianhumphries@cox.net?subject=OAPA%20Information">Jillian Humphries</a>, Kappa Delta</p>
 
-<p><strong>Secretary</strong><br> 
+<p><strong>President-Elect</strong><br> 
 <a href="mailto:mgeraghty@cox.net?subject=OAPA%20Information">Theresa Geraghty</a>, Gamma Phi Beta</p>
+
+<p><strong>Secretary</strong><br> 
+<a href="mailto:sacaron.17@gmail.com?subject=OAPA%20Information">Steph Drewnowski</a>, Delta Delta Delta</p>
 
 <p><strong>Treasurer</strong><br> 
 <a href="mailto:sdunham25@gmail.com?subject=OAPA%20Information">Sharon Dunham</a>, Gamma Phi Beta</p>
-
-<p><strong>Advisor</strong><br> 
-<a href="mailto:nicole.busboom@gmail.com?subject=OAPA%20Information">Nicole Busboom</a>, Alpha Omicron Pi</p>
-
 </div>
 
 Meetings are typically held the third Thursdays of September, November, January, March and April. For time and location, please contact your delegate or the OAPA President.
