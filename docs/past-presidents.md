@@ -6,6 +6,11 @@ feature_image: "/assets/hero-image.jpg"
 <div>
 
 <ul>
+<li>Nicole Bartels</li>
+<li>Alpha Omicron Pi</li>
+<li>2019-21</li>
+</ul>
+<ul>
 <li>Coryn McDonnell</li>
 <li>Delta Gamma</li>
 <li>2017-18</li>
