@@ -91,7 +91,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Delta Zeta</li>
-<li><a href="mailto:lwestfal8@yahoo.com?subject=OAPA%20Information">Lois Westfall</a></li>
+<li><a href="mailto:cnikunen@gmail.com?subject=OAPA%20Information">Christine Nikunen</a></li>
 </ul>
 <ul>
 <li>Gamma Phi Beta</li>
