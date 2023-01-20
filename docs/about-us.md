@@ -55,7 +55,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Alpha Omicron Pi</li>
-<li><a href="mailto:nicole.busboom@gmail.com?subject=OAPA%20Information">Nicole Busboom</a></li>
+<li><a href="mailto:astover.aoii@gmail.com?subject=OAPA%20Information">Amber Stover</a></li>
 </ul>
 <ul>
 <li>Alpha Phi</li>
@@ -75,7 +75,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Chi Omega</li>
-<li><a href="mailto:ljedgecombe@outlook.com?subject=OAPA%20Information">Lauren Edgecombe</a></li>
+<li><a href="mailto:momrasgorshek@gmail.com?subject=OAPA%20Information">Dorothy Rasgorshek</a></li>
 </ul>
 <ul>
 <li>Delta Delta Delta</li>
