@@ -14,7 +14,7 @@ We offer the ability to pay for your Gathering of the Greeks ticket as well as f
 <input type="hidden" name="hosted_button_id" value="ADSXLSJD6HUVE">
 <table>
 <tr><td><input type="hidden" name="on0" value="OAPA Payment">OAPA Payment</td></tr><tr><td><select name="os0">
-	<option value="Gathering of Greeks Reservation">Gathering of Greeks Reservation $25.00 USD</option>
+	<!--option value="Gathering of Greeks Reservation">Gathering of Greeks Reservation $25.00 USD</option-->
 	<option value="Dues">Dues $30.00 USD</option>
 	<option value="Dues & Scholarship Donation">Dues & Scholarship Donation $55.00 USD</option>
 </select> </td></tr>
