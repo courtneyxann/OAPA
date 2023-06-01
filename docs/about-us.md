@@ -43,7 +43,7 @@ Meetings are typically held the third Thursdays of September, November, January,
 </ul>
 <ul>
 <li>Alpha Delta Pi</li>
-<li><a href="mailto:enaaadpi.panhellenic@gmail.com?subject=OAPA%20Information">Courtney Heitman</a></li>
+<li><a href="mailto:nestateadpi@gmail.com?subject=OAPA%20Information">Rachel Kreifels</a></li>
 </ul>
 <ul>
 <li>Alpha Epsilon Phi</li>
